@@ -1,10 +1,10 @@
-const CACHE_NAME = "dt-music-trainer-v2026.09.30.3";
+const CACHE_NAME = "dt-music-trainer-v2026.09.30.5";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./icon-192.png",
-  "./icon-512.png"
+  "./icon/icon-192.png",
+  "./icon/icon-512.png"
 ];
 
 self.addEventListener("install", event => {

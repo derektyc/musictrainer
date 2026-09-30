@@ -21,3 +21,8 @@ If your Pages site uses a custom domain, add that HTTPS origin too.
 Install:
 Open the GitHub Pages HTTPS URL in Chrome/Edge/Android and use Install App when offered.
 On iPhone/iPad Safari, use Share > Add to Home Screen.
+
+
+PWA icon layout for this build:
+- icon/icon-192.png
+- icon/icon-512.png
