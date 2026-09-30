@@ -9,7 +9,7 @@ Upload these files together to the root of your GitHub Pages repository:
 
 Google Drive OAuth:
 The app keeps the same Google OAuth client ID used by your previous GitHub-hosted DT Music Scores build:
-19844780595-irnl71j0phole6ptb9l1moh932k0fh6j.apps.googleusercontent.com
+19844780595-pfas3r99o39m679oabln8p2uehm0deek.apps.googleusercontent.com
 
 In Google Cloud Console > APIs & Services > Credentials > your Web OAuth Client,
 add your GitHub Pages origin under Authorized JavaScript origins, for example:
