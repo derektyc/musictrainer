@@ -1,4 +1,4 @@
-const CACHE_NAME = "dt-music-trainer-v2026.09.30.1";
+const CACHE_NAME = "dt-music-trainer-v2026.09.30.3";
 const APP_SHELL = [
   "./",
   "./index.html",
